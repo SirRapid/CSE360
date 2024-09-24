@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-class DatabaseHelper {//comit
+class DatabaseHelper {//comittt
 
 	// JDBC driver name and database URL 
 	static final String JDBC_DRIVER = "org.h2.Driver";   
